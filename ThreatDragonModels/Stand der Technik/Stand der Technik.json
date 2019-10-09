@@ -79,6 +79,7 @@
               "id": "94afef9f-b8a4-44c6-8226-41215e680131",
               "z": 3,
               "hasOpenThreats": false,
+              "threats": [],
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
