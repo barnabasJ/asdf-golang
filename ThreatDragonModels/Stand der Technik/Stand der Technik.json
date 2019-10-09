@@ -1522,6 +1522,112 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 816,
+                "y": 125
+              },
+              "target": {
+                "x": 1050,
+                "y": 165
+              },
+              "vertices": [],
+              "id": "52f7dbe5-9666-4c1f-ad3f-911f4e8f621e",
+              "z": 48,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 628,
+                "y": 21
+              },
+              "target": {
+                "x": 333,
+                "y": 33
+              },
+              "vertices": [
+                {
+                  "x": 595,
+                  "y": 111
+                },
+                {
+                  "x": 554,
+                  "y": 143
+                },
+                {
+                  "x": 419,
+                  "y": 163
+                },
+                {
+                  "x": 351,
+                  "y": 118
+                }
+              ],
+              "id": "a6b9c58a-4162-427d-ba5c-d7746b4f2997",
+              "z": 49,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 26,
+                "y": 193
+              },
+              "target": {
+                "x": 236,
+                "y": 120
+              },
+              "vertices": [],
+              "id": "c5780a53-35db-4176-aee6-7ec92cb8265c",
+              "z": 50,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 341,
+                "y": 594
+              },
+              "target": {
+                "x": 599,
+                "y": 630
+              },
+              "vertices": [
+                {
+                  "x": 383,
+                  "y": 539
+                },
+                {
+                  "x": 538,
+                  "y": 531
+                }
+              ],
+              "id": "a37ead73-4c0a-4929-b165-75e5aaf1825b",
+              "z": 51,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 630,
+                "y": 533
+              },
+              "target": {
+                "x": 859,
+                "y": 518
+              },
+              "vertices": [],
+              "id": "68bf598f-2ca1-48a3-9f2f-a4f431295ce4",
+              "z": 52,
+              "attrs": {}
             }
           ]
         },
